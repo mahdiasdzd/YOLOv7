@@ -1,0 +1,7 @@
+/content/drive/MyDrive/YOLOv7/customdata/images/train/1.jpg
+/content/drive/MyDrive/YOLOv7/customdata/images/train/2.jpg
+/content/drive/MyDrive/YOLOv7/customdata/images/train/3.jpg
+/content/drive/MyDrive/YOLOv7/customdata/images/train/4.jpg
+/content/drive/MyDrive/YOLOv7/customdata/images/train/6.jpg
+/content/drive/MyDrive/YOLOv7/customdata/images/train/7.jpg
+/content/drive/MyDrive/YOLOv7/customdata/images/train/8.jpg

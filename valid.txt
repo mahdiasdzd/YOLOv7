@@ -1,0 +1,2 @@
+/content/drive/MyDrive/YOLOv7/customdata/images/valid/1.jpg
+/content/drive/MyDrive/YOLOv7/customdata/images/valid/2.jpg
